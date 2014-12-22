@@ -42,10 +42,10 @@ This install will give you Node & NPM. Confirm both are working with the `-v` fl
 
 ```
 $ node -v
-=> v0.10.29
+=> v0.10.34
 
 $ npm -v
-=> 1.4.14
+=> 2.1.14
 ```
 
 Now you may use NPM to install Ember. Don't forget to use the -g flag. This installs the package globally.
