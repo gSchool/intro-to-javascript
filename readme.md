@@ -3,6 +3,18 @@
 ## Intro to JS Talk (30 - 45 min)
 All about font-end.
 
+* JS origins
+* JS statistics (most used, most deployed)
+* JS uses
+  * decoration
+  * interaction
+  * data
+  * server
+* Syntax
+* [Wat](Gary Bernhardt's talk on JavaScript)
+* DOM: var title = document.getElementById('title');
+* HTML5 APIs: User Media, LocalStorage,
+
 ## Rantly Demo (30min)
 
 ### UI / UX
@@ -67,4 +79,6 @@ This should serve your application. Visit http://locahost:4200 to confirm.
 
 ### Resources
 
+[Ember CLI Guides](http://emberjs.com/guides/)
+[Ember Docs]
 [Install without Sudo](http://www.wenincode.com/installing-node-jsnpm-without-sudo/)
